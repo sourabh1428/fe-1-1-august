@@ -4,6 +4,10 @@ body{
     margin: 100px;
     padding: 10-px;
 }
+a{
+    text-decoration: none;
+    color: #000;
+}
 header{
     border: 1px solid black;
     color: #000;
