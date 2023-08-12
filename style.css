@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=DM+Sans:opsz@9..40&family=Gothic+A1&family=Inter&family=Plus+Jakarta+Sans&family=Poppins&family=Preahvihear&family=Roboto&family=Rubik&display=swap');
+
+body{
+    margin: 100px;
+    padding: 10-px;
+}
+header{
+    border: 1px solid black;
+    color: #000;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding: 10px;
+}
+header h1{
+    padding: 10px;
+}
+img{
+    width: 1051px;
+    height: 762px;
+    flex-shrink: 0;
+}
+li{
+    padding-top:10px ;
+}
